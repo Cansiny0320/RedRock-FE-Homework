@@ -1,0 +1,24 @@
+{
+  "name": "redrock-fe-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lv1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cansiny0320/RedRock-FE-Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cansiny0320/RedRock-FE-Homework/issues"
+  },
+  "homepage": "https://github.com/Cansiny0320/RedRock-FE-Homework#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
